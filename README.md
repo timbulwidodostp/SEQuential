@@ -1,6 +1,8 @@
 # SEQuential
 SEQuential trial emulation Use SEQuential (SEQTaRget) With (In) R Software
 
+https://www.youtube.com/watch?v=Uf0YP2oURtI
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
